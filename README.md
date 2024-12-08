@@ -1,5 +1,3 @@
----
-
 # **printf - Implémentation de printf en C**
 
 ## **📖 Description**
